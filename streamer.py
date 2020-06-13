@@ -1,7 +1,6 @@
 import socket
 import pyscreenshot as ImageGrab
 import math
-from pickle import dumps
 import time
 
 
